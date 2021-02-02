@@ -6,14 +6,14 @@ let operation = "+"
 
 // Write if-statements here
 
-if (operation === "+") 
-{console.log (firstnumber + secondnumber)}
-
-else if (operation === "-")
+if (operation === "-") 
 {console.log (firstnumber - secondnumber)}
 
 else if (operation === "*")
 {console.log (firstnumber * secondnumber)}
+
+else if (operation === "+")
+{console.log (firstnumber + secondnumber)}
 
 else if (operation === "/")
 {console.log (firstnumber / secondnumber)}
